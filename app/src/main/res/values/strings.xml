@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Calculatorism - Motion Lab</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="ac">AC</string>
+    <string name="plus_minus">+</string>
+    <string name="percent">%</string>
+    <string name="divide">/</string>
+    <string name="multiply">x</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="del">DEL</string>
+    <string name="burung">(</string>
+    <string name="turung">)</string>
+    <string name="sin">SIN()</string>
+    <string name="cos">COS()</string>
+    <string name="tan">TAN ()</string>
+    <string name="pangkat">^</string>
+    <string name="akar">√</string>
+    <string name="faktorial">n!</string>
+    <string name="euler">e</string>
+</resources>
